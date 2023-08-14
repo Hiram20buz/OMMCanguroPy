@@ -7,3 +7,6 @@
 
 
 <img width="267" alt="Screen Shot 2023-08-14 at 16 05 12" src="https://github.com/Hiram20buz/OMMCanguroPy/assets/112133798/f14c5c1d-fce8-437a-b9e5-ef10ab263561">
+
+
+3-AC = 10 m, BD = 15 m y AD = 22 m. Encuentra la distania BC.  AD Es una linea recta.
