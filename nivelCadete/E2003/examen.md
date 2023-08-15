@@ -10,3 +10,6 @@
 
 
 3-AC = 10 m, BD = 15 m y AD = 22 m. Encuentra la distania BC.  AD Es una linea recta.
+
+4-En un edifico se numeraron todas las puertas de las oficinas utilizando placas que contenían un dígito cada una (por ejemplo, al numerar la 14a puerta se usaron dos placas, una con
+el número 1 y otra con el 4). Si en total se utilizaron 35 placas, cuántas puertas hay?
