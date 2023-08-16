@@ -15,3 +15,9 @@ https://www.ommenlinea.org/wp-content/uploads/practica/canguro/cadete03.pdf
 
 4-En un edifico se numeraron todas las puertas de las oficinas utilizando placas que contenían un dígito cada una (por ejemplo, al numerar la 14a puerta se usaron dos placas, una con
 el número 1 y otra con el 4). Si en total se utilizaron 35 placas, cuántas puertas hay?
+
+
+5-Cuánto vale x en la siguiente figura?
+
+![image](https://github.com/Hiram20buz/OMMCanguroPy/assets/112133798/234c2595-216d-40c2-9c26-b05f4691c8ed)
+
