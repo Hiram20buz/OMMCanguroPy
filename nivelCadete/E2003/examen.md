@@ -1,5 +1,7 @@
 # Examen Canguro Matemátio 2003 Nivel Cadete
 
+https://www.ommenlinea.org/wp-content/uploads/practica/canguro/cadete03.pdf
+
 1-Mariana dibuja flores: una azul, una verde, una roja, una amarilla, una azul, una verde,etc. De qué color es la 29a flor?
 
 2-En la FIgura se escriben números en los lugares de A y B de manera que en cada círculo la suma sea 55. Qué número debe coloarse en el lugar de A?
